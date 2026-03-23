@@ -1,11 +1,16 @@
 ---
 name: context7-docs
-description: Reminder to use Context7 MCP for up-to-date library documentation. Use when working with any library, package, framework, or SDK - especially when needing API references, code examples, usage patterns, or troubleshooting. Triggers for questions like "how do I use X library", "show me examples of Y", "what's the API for Z", or when writing code that uses external packages.
+description: |
+    Reminder to use Context7 MCP for up-to-date library documentation. Use when working with any library, package, framework, or SDK - especially when needing API references, code examples, usage patterns, or troubleshooting.
+    Triggers for questions like "how do I use X library", "show me examples of Y", "what's the API for Z", or when writing code that uses external packages.
+    If the user does not have the context-7 MCP installed, do use this skill.
 ---
 
 # Context7 Documentation Lookup
 
 Use the Context7 MCP server to fetch up-to-date documentation for any library or package.
+
+If the user does not have the context-7 MCP installed, do use this skill.
 
 ## Workflow
 

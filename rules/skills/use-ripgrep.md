@@ -1,3 +1,7 @@
+---
+alwaysApply: true
+author: elee
+---
 # Prefer ripgrep (`rg`) Over `grep`
 
 - **Always use `rg` (ripgrep) instead of `grep`** for searching file contents from the command line.

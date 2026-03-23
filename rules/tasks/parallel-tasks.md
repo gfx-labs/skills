@@ -1,3 +1,7 @@
+---
+alwaysApply: true
+author: elee
+---
 # Global Agent Rules
 
 Prefer parallelism in both the planning of your work and the execution. This document outlines both guidelines to follow and directions to ensure there is good parallelization

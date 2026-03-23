@@ -1,3 +1,7 @@
+---
+alwaysApply: true
+author: elee
+---
 # Writing Style for all responses and generated content
 
 - **No flowery language.** Do not use embellishment, filler phrases, superlatives, or marketing-speak in any output -- code comments, commit messages, documentation, PR descriptions, or conversational responses.
