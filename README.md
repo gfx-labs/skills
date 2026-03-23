@@ -22,7 +22,7 @@ i personally install agent rules to `~/.agents/rules` using this config as part 
 {
   "$schema": "https://opencode.ai/config.json",
   "instructions": [
-    "~/.agents/rules/**/*.md"
+    "~/.agents/rules/*/*.md"
   ]
 }
 
